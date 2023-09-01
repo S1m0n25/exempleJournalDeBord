@@ -9,4 +9,9 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
+j'ai choisi TIM parce que j'aime
+- les jeux vidéo 
+* la technologie
++ la vidéo
 
+aussi ce que je trouvait intéressant était le fait que le programe était très large et il y a beaucoup de possibiliter d'emplois. De plus, je voulait en apprendre plus sur les jeux vidéo, faire du montage vidéo et savoir comment bien utiliser photoshop. Le cours qui me motive est le cours d'illustration numérique. pour l'instant je n'ai **pas** de métier en tête que je sais que je vais faire plus tard mais je pense que je choisirais monteur vidéo 👍.  
